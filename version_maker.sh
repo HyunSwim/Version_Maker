@@ -17,4 +17,4 @@ done
 cd $MY_PWD
 
 python3 version_maker.py --pwd $1
-rm -r directory.txt
+rm -r $1/directory.txt
