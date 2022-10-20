@@ -1,0 +1,32 @@
+[
+    "bsm",
+    {
+        "timestamp": "20221017_163737.600781675",
+        "id": "2564",
+        "secMark": "0",
+        "latitude": "37.57950592",
+        "longitude": "126.8918915",
+        "elev": "366",
+        "accuracy": "0",
+        "transmission": "2",
+        "speed": "6",
+        "heading": "276",
+        "angle": "0",
+        "accel_set_long": "0",
+        "accel_set_lat": "0",
+        "accel_set_vert": "0",
+        "accel_set_yaw": "0",
+        "brakes_wheel_brakes": "0",
+        "brakes_traction": "0",
+        "brakes_abs": "0",
+        "brakes_scs": "0",
+        "brakes_brake_boost": "0",
+        "brakes_aux_brakes": "0",
+        "size_width": "200",
+        "size_length": "510"
+    },
+    "map",
+    "pvd",
+    "rtcm",
+    "spat"
+]

@@ -1,0 +1,6 @@
+timestamp,msgCnt,layerType,id_name,id_id,revision,ref_point_latitude,ref_point_longitude,ref_point_elevation,lane_width,lane_id,lane_attributes_directional_use,lane_attributes_lane_type,maneuvers,node_set_xy_delta_x,node_set_xy_delta_y,node_set_xy_attributes_local_node,connects_to_connectingLane_laneid,connects_to_connectingLane_maneuvers,connects_to_signal_group
+20221017_163758.658257474,1,3,,3187,1,375794425,1268946746,0,297,1,128,128,32,-1778,-3133,0,44,32,70
+20221017_163800.094214274,1,3,,3187,1,375794425,1268946746,0,297,1,128,128,32,-1778,-3133,0,44,32,70
+20221017_163800.558307414,1,3,,3187,1,375794425,1268946746,0,297,1,128,128,32,-1778,-3133,0,44,32,70
+20221017_163808.067658736,1,3,,3187,1,375794425,1268946746,0,297,1,128,128,32,-1778,-3133,0,44,32,70
+20221017_163808.457533623,1,3,,3187,1,375794425,1268946746,0,297,1,128,128,32,-1778,-3133,0,44,32,70
